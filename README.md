@@ -117,7 +117,8 @@ Ce scanner est fourni à des fins d'apprentissage et d'audit légal (sur des mac
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=120&section=footer&text=Outils-de-Scan%20|Par DevByNightt&fontColor=ffffff&fontSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=120&section=footer&text=Outils-de-Scan%20|Par-DevByNightt&fontColor=ffffff&fontSize=16&animation=fadeIn" />
 </p>
+
 
 
