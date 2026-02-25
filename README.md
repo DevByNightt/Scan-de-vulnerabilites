@@ -109,7 +109,7 @@ python main.py localhost -p 8880-8890
 
 <div align="center">
 
-Projet réalisé dans le cadre d'un **Projet Étudiant en Sécurité / Programmation Python**.
+Projet réalisé dans le cadre d'un **Projet personnelle en Sécurité / Programmation Python**.
 Ce scanner est fourni à des fins d'apprentissage et d'audit légal (sur des machines vous appartenant ou avec autorisation).
 
 </div>
@@ -117,5 +117,6 @@ Ce scanner est fourni à des fins d'apprentissage et d'audit légal (sur des mac
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=120&section=footer&text=Scanner%20Vuln%C3%A9rabilit%C3%A9s%20Python%20|%202026%20|%20Apprentissage%20%26%20D%C3%A9tection&fontColor=ffffff&fontSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=120&section=footer&text=Outils-de-Scan%20|-Par-DevByNightt&fontColor=ffffff&fontSize=16&animation=fadeIn" />
 </p>
+
